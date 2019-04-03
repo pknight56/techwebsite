@@ -5,13 +5,10 @@
 }
 body {
 }
-  .logo {
-    
-    text-indent:-99999px;
-    background: url('techwebsite/gotit.png');
-    width: 950px;
-    height: 148px;
-    
-}
 
-
+#block {
+  border-width:  2px;
+  border-color:  #4682B4;
+  background-color:  #E0FFFF;
+  width:  200px;
+  text-align: center
