@@ -4,3 +4,13 @@
   font-family: 'Kalam';
 }
 
+  .logo {
+    
+    text-indent:-99999px;
+    background: url('gotit.png');
+    width: 950px;
+    height: 148px;
+    
+}
+
+
