@@ -6,9 +6,15 @@
 body {
 }
 
-#block {
-  border-width:  2px;
-  border-color:  #4682B4;
-  background-color:  #E0FFFF;
-  width:  200px;
-  text-align: center
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
