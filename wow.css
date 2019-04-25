@@ -5,6 +5,14 @@
 .alignleft{
     float:left;
 }
+
+p {
+    text-align:left;
+}
+
+
+
+
 a {
     color: white;
     text-decoration: none;
