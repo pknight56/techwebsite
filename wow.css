@@ -1,4 +1,7 @@
+.right{
+    float:right;
+}
 
-div {
-   text-align="center"
+.left{
+    float:left;
 }
