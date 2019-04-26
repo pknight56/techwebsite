@@ -28,7 +28,7 @@ body {
 
 .header {
   overflow: hidden;
-  background-color: #7A0808;
+  background-color: #ba0000;
   padding: 20px 10px;
 }
 
@@ -99,15 +99,15 @@ body {
 }
 
 .twitter {
-  background: #7a0808;
+  background: #ba0000;
   color: white;
 }
 
 .youtube {
-  background: #7a0808;
+  background: #ba0000;
   color: white;
 }
 .instagram {
-  background: #7a0808;
+  background: #ba0000;
   color: white;
 }
