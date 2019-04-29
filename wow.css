@@ -33,12 +33,13 @@ body {
 
 div {
     display: block; 
-    font-size: 50px;
+    
     text-align:center; 
     
 }
 
 .header {
+    font-size: 50px;
   overflow: hidden;
   background-color: #ba0000;
   padding: 20px 10px;
