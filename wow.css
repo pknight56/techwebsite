@@ -13,7 +13,9 @@ p2 {
    margin-left: 400px;
 }
 
-
+p3 {
+   margin: auto;
+}
 
 a {
     color: white;
