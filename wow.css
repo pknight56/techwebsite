@@ -2,6 +2,10 @@
     float:right;
 }
 
+h1 {
+ font-family: 'Press Start 2P', cursive;   
+}
+
 .alignleft{
     float:left;
 }
@@ -164,4 +168,5 @@ input[type=submit]:hover {
 
 
 font-family: 'Press Start 2P', cursive;
+
 
