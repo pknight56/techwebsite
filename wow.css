@@ -8,6 +8,10 @@ h1 {
     padding-top: 320px;
 }
 
+.hy {
+    padding-top: 1px;
+}
+
 .alignleft{
     float:left;
 }
