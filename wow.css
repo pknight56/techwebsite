@@ -4,6 +4,8 @@
 
 h1 {
  font-family: 'Press Start 2P', cursive;   
+ width: 90px;
+    padding: 200px;
 }
 
 .alignleft{
