@@ -1,6 +1,7 @@
 .header-right {
-    padding-top: 5px;
+    
     display: block;
+    padding-bottom: 40px;
 }
 
 .alignright{
@@ -28,7 +29,7 @@ p2 {
    margin-left: 400px;
 }
 
-p3, img, .header-right {
+p3, img {
   margin: auto;
    display: block;
 }
