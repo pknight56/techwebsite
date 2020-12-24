@@ -28,9 +28,10 @@ p2 {
    margin-left: 400px;
 }
 
-p3 {
+p3, img {
   margin: auto;
-  text-align: center;
+  text-align: left;
+   display: block;
 }
 
 a {
